@@ -38,3 +38,8 @@ git clone https://github.com/DaniaSalamhdr4/calculator.git
 Navigate to the project folder and open index.html in your favorite web browser.
 
 ![Calculator Preview](./images/screenshot.PNG)
+
+## 👥 Authors
+
+- **Dania Salama** - [DaniaSalamadr4](https://github.com/DaniaSalamhdr4)
+- **Dani Mhnna** - [danimhnnamhnna-del](https://github.com/danimhnnamhnna-del)
